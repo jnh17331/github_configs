@@ -1,4 +1,4 @@
-# Jesse's GitHub Profile
+# Jesse's GitHub
 
 Welcome to my GitHub profile! 👋 I am a passionate and experienced developer with expertise in full stack development, data science, machine learning, and Python. Below, you'll find an overview of my key skills and projects.
 
